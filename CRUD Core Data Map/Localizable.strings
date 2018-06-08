@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  CRUD Core Data Map
+
+  Created by Maxime BOINET on 17/12/2017.
+  Copyright © 2017 Maxime BOINET. All rights reserved.
+*/
+
+"controllers.new_apple_store.title" = "New Apple Store";
+"controllers.new_apple_store.title_label" = "Title";
+"controllers.new_apple_store.latitude_label" = "Latitude";
+"controllers.new_apple_store.longitude_label" = "Longitude";
+
+"controllers.update_apple_store.title" = "Update Apple Store";
+
+"app.vocabulary.error_title" = "Error";
+"app.vocabulary.error_form_message" = "Missing fields";
+"app.vocabulary.close" = "Close";
